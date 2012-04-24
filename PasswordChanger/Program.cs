@@ -22,6 +22,8 @@
             //    Console.WriteLine(lnx.ExecuteComand(word));
             //}
 
+            //change password of current user
+            //lnx.ChangePassword("blah");
 
             Console.ReadLine();
         }
